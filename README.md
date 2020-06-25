@@ -1,6 +1,6 @@
 Writing nested logs from GAE Standard (Node.js + Winston)
 ===
-A simple app written following the instuction of the official [
+A simple app written following the instuctions from the official [
 nodejs-logging-winston](https://github.com/googleapis/nodejs-logging-winston#using-as-an-express-middleware) library.
 
 Preview
